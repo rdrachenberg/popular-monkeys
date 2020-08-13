@@ -10,8 +10,11 @@ Implement functionality to render with Handlebars the six most popular monkeys
     <a href='https://github.com/rdrachenberg/popular-monkeys/blob/master/index.html'> 
         <img src='https://img.shields.io/badge/HTML-19.8%25-orange?style=plastic&logo=HTML5'>
     </a> 
+    <a href='https://handlebarsjs.com/'>
+        <img src='https://img.shields.io/badge/Made%20with-Handlebars-yellowgreen?style=plastic&logo=HackerRank&logoColor=yellow'>
+    </a>
     <a href='https://github.com/rdrachenberg'>
-        <img src='https://img.shields.io/badge/Made%20by-rDrachenberg-success?style=plastic&logo=Handlebars&logoColor=blue'>
+        <img src='https://img.shields.io/badge/Node%20-.js-success?style=plastic&logo=Node.js&logoColor=white'>
     </a>
     <a href='https://github.com/rdrachenberg'>
         <img src='https://img.shields.io/badge/Made%20by-rDrachenberg-success?style=plastic&logo=visual-studio-code&logoColor=blue'>
