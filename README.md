@@ -26,17 +26,23 @@ Implement functionality to render with Handlebars the six most popular monkeys
 
 ## Popular Monkeys
 <p align='center'>
-    <img src='./images/monkey-page.png'>
+    <a href="https://github.com/rdrachenberg/popular-monkeys">
+        <img src='./images/monkey-page.png'>
+    </a>
 </p>
 
 ## Functionality Monkeys
 ### Info Button Show
 
 <p align='center'>
-    <img src='./images/monkeyOne.gif'>
+    <a href="https://github.com/rdrachenberg/popular-monkeys">
+        <img src='./images/monkeyOne.gif'>
+    </a>
 </p>
 
 ### Info Button Hide
 <p align='center'>
-    <img src='./images/monkeyTwo.gif'>
+    <a href="https://github.com/rdrachenberg/popular-monkeys">
+        <img src='./images/monkeyTwo.gif'>
+    </a>
 </p>
