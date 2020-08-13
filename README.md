@@ -24,12 +24,41 @@ Implement functionality to render with Handlebars the six most popular monkeys
     <img src='https://forthebadge.com/images/badges/powered-by-electricity.svg'>
 </p>
 
+## Node Required
+### Run 
+    npm i
+
 ## Popular Monkeys
 <p align='center'>
     <a href="https://github.com/rdrachenberg/popular-monkeys">
         <img src='./images/monkey-page.png'>
     </a>
 </p>
+
+## File Structure 
+    📦popular-monkeys
+    ┣ 📂css
+    ┃ ┗ 📜style.css
+    ┣ 📂images
+    ┃ ┣ 📜abu.png
+    ┃ ┣ 📜chim-chim.jpg
+    ┃ ┣ 📜forest.jpg
+    ┃ ┣ 📜grape-ape.jpg
+    ┃ ┣ 📜jack.png
+    ┃ ┣ 📜marcel.png
+    ┃ ┣ 📜monkey-page.png
+    ┃ ┣ 📜monkeyOne.gif
+    ┃ ┣ 📜monkeyTwo.gif
+    ┃ ┗ 📜moon-watcher.jpg
+    ┣ 📂js
+    ┃ ┣ 📜monkeys.js
+    ┃ ┗ 📜monkeysTemplate.js
+    ┣ 📂node_modules
+    ┣ 📜.gitignore
+    ┣ 📜README.md
+    ┣ 📜index.html
+    ┣ 📜package-lock.json
+    ┗ 📜package.json
 
 ## Functionality Monkeys
 ### Info Button Show
